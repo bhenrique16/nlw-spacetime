@@ -13,7 +13,7 @@
 <br>
 
 ## 💻 Projeto
-[NLW-Spacetime] É um projeto desenvolvido durante a Next Level Week, apresentado pela Rocketseat de 15 a 19 de maio de 2023. O projeto consiste em uma interface web e mobile para criação e visualização de memórias, inspirado no conceito de cápsula do tempo. Os usuários podem registrar uma memória a cada dia e acompanhar sua evolução ao longo do tempo.
+[NLW-Spacetime] É um projeto desenvolvido durante a Next Level Week, apresentado pela Rocketseat de 15 a 19 de maio de 2023. O projeto consiste em uma interface web e mobile para criação e visualização de memórias, inspirado no conceito de cápsula do tempo. Os usuários podem registrar uma memória a cada dia e acompanhar sua evolução ao longo do tempo. 
 
 
 ## 🧪 Tecnologia
